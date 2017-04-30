@@ -29,7 +29,7 @@ Syntax highlighted code block
 ![1st image](C:\Users\Public\faizan\analytics\2nd graph.jpeg)
 ```
 
-![]()
+![1st image](1st graph.jpeg)
 
 ### Jekyll Themes
 
