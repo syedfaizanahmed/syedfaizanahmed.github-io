@@ -5,7 +5,9 @@ the most important task is to develop a clever and informed sales pitch which sh
 
 This project is aimed at developing and recognising patterns for the background common information of people from different regions in the US which could be used to aim different strategies and packages for the sales of insurance. 
 
-### Markdown
+### Data Science tools at work
+
+To make this 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
