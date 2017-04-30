@@ -1,40 +1,20 @@
-## Project: Identifiers for making better insurance sales strategies
+# Project: Identifiers for making better insurance strategies
 
-In the world of insurance sales and deployment of different sales strategies catering to the background of the potential buyer,
-the most important task is to develop a clever and informed sales pitch which should take into account the most important details and similarities of patterns from the previous insurance buyers.
+In the world of insurance, one of the most important task is the development of different isurance packages and strategies catering to the background of the costumers. This task can prove to be highly fruitful if the new strategies and insurance packages are designed using informed data and trend changes from past to present.
 
-This project is aimed at developing and recognising patterns for the background common information of people from different regions in the US which could be used to aim different strategies and packages for the sales of insurance. 
+To see the change in trends, it is essential to not only look at the current data trends but also, to look and compare it past data trends, which can be used to provide much better insight into the long running changes.
 
-### Data Science tools at work
-
-To make this 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+This project is aimed at developing and recognising patterns for the background common information of people from different regions in the US from year 1993 which could be used to amalgamate into the current data to identify changes which could be used to develop better insurance packages catering to the needs and affordability of future potential insurance buyers.
 
 
-```
+## Data Science tools at work
+
+The image below shows the frequency of working wives with different levels of education in different regions of US.
 
 ![1st image](https://cloud.githubusercontent.com/assets/28226371/25567124/69ab6064-2e00-11e7-8abc-68e97cc1dd06.jpg)
 
-### Jekyll Themes
+It can be fairly deduced that the in all the regions, the most number of working wives, covered by husbands insurance, have 12 years of education.
+This is a great indicator which can be further refined by taking in the working hours per week of working wives, if the working wives have kids from ages 1 to 6 or 6 to 18 and monthly income of husband.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/syedfaizanahmed/syedfaizanahmed.github-io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Deductions
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
