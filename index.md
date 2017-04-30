@@ -26,10 +26,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![1st image](C:\Users\Public\faizan\analytics\2nd graph.jpeg)
+
 ```
 
-![1st image](1st graph.jpeg)
+![1st image](syedfaizanahmed.github-io/1st graph.jpeg)
 
 ### Jekyll Themes
 
