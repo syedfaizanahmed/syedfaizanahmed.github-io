@@ -29,7 +29,7 @@ Syntax highlighted code block
 ![1st image](C:\Users\Public\faizan\analytics\2nd graph.jpeg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![]()
 
 ### Jekyll Themes
 
