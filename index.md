@@ -18,3 +18,4 @@ This is a great indicator which can be further refined by taking in the working 
 
 ## Deductions
 
+Not much can deduced than what has already been stated. But the most promising aspect is the introduction of new variables, which will surely provide with much meaningful identifiers and many amazing strategic points can be made if these identifiers be compared side by side with current data of similar kind.
