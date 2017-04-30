@@ -1,8 +1,9 @@
 ## Project: Identifiers for making better insurance sales strategies
 
-You can use the [editor on GitHub](https://github.com/syedfaizanahmed/syedfaizanahmed.github-io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In the world of insurance sales and deployment of different sales strategies catering to the background of the potential buyer,
+the most important task is to develop a clever and informed sales pitch which should take into account the most important details and similarities of patterns from the previous insurance buyers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is aimed at developing and recognising patterns for the background common information of people from different regions in the US which could be used to aim different strategies and packages for the sales of insurance. 
 
 ### Markdown
 
