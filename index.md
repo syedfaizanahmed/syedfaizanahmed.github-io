@@ -72,7 +72,7 @@ Image below represents the number of data points collected from different parts 
 
 ![3rd image](https://cloud.githubusercontent.com/assets/28226371/25567115/44d9c032-2e00-11e7-8e6d-ecad5915b3e0.jpg)
 
-Image below represents the percenages of working experience of working wives in different parts(4) of the US.
+Image below represents the normalised bars of working experience of working wives in different parts(4) of the US.
 
 ![4th image](https://cloud.githubusercontent.com/assets/28226371/25567133/79498122-2e00-11e7-90f8-a8d2b4eccd80.jpg)
 
