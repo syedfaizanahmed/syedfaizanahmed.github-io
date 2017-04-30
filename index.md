@@ -5,7 +5,10 @@ In the world of insurance, one of the most important task is the development of 
 To see the change in trends, it is essential to not only look at the current data trends but also, to look and compare it past data trends, which can be used to provide much better insight into the long running changes.
 
 ```
-The main focus of the project is to highlight identifiers that a married will have health insurance with how much probaility. Combining it with current data of similar kind, can give insight into changing behaviors and variables that have been important in getting more and more people into the health insurance net from past to present. This can be used to make assessments about the lack of insurance deals present and how they can be improved upon.
+The main focus of the project is to highlight identifiers that a married will have health insurance with how much probaility. 
+Combining it with current data of similar kind, can give insight into changing behaviors and variables that have been important
+in getting more and more people into the health insurance net from past to present. This can be used to make assessments about 
+the lack of insurance deals present and how they can be improved upon.
 ```
 This project is aimed at developing and recognising patterns for the background common information of people from different regions in the US from year 1993 which could be used to amalgamate into the current data to identify changes which could be used to develop better insurance packages catering to the needs and affordability of future potential insurance buyers.
 
@@ -42,7 +45,10 @@ This result can be used in conjunction with other variables like having kids, wo
 
 As stated above
 ```
-The main focus of this project is to highlight identifiers that a married will have health insurance with how much probaility. Combining it with current data of similar kind, can give insight into changing behaviors and variables that have been important in getting more and more people into the health insurance net from past to present. This can be used to make assessments about the lack of insurance deals present and how they can be improved upon.
+The main focus of this project is to highlight identifiers that a married will have health insurance with how much probaility. 
+Combining it with current data of similar kind, can give insight into changing behaviors and variables that have been important 
+in getting more and more people into the health insurance net from past to present. This can be used to make assessments about 
+the lack of insurance deals present and how they can be improved upon.
 ```
 
 
