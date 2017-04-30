@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 ```
 
-![1st image](http://syedfaizanahmed.github-io/5th graph.PNG)
+![1st image](http://syedfaizanahmed.github-io/1st graph.JPG)
 
 ### Jekyll Themes
 
