@@ -56,13 +56,24 @@ more and more people into the health insurance net from past to present.
 This can be used to make assessments about the lack of insurance 
 deals present and how they can be improved upon.
 ```
+Much analysis is needed before any solid assessment can be made. The analysis will extend to include all the 13 variables in the dataset with pairwise and multivariate probabilistic numeric and graphical results. In the end, following type of answers could be easily answered,
+What is the probability that a married women with three kids under 18, living in southern US, is covered health insuance?
+What percentage of married women having no health insurance, are likely to be working more than 40 hours?
+If I pick a random women with three kids under 18, what is the probability of her having health insurance from her own job?
+If the husbands income in the first quartile, how much probability is there that wive is working full week without any health insurance?
+
+The answer to these and similar questions can be beneficial in assessing the pros an cons in health insurance packages and policies of the past and if the similar data of current time is analysed the same way, it can deduceed that which factors are beneicial in getting more people into health insurance and which factor backfired. Future changes in strategies of health insurance packages made keeping these deductions in mind. 
 
 ## Background on the data
 
-The dataset consists of 22272 data points with 14 variables, about the working wives with or without husbands insurance coverage in different parts of US. The collected data is for the year 1993, thus is perfect for assessing the changes in insurance coverage of working wives from the past by comparing with current data of such type.
+The dataset consists of 22272 data points with 13 variables, about the working wives with or without husbands insurance coverage in different parts of US. The collected data is for the year 1993, thus is perfect for assessing the changes in insurance coverage of working wives from the past by comparing with current data of such type.
 
 Image below represents the number of data points collected from different parts (4) of the US.
 
 ![3rd image](https://cloud.githubusercontent.com/assets/28226371/25567115/44d9c032-2e00-11e7-8e6d-ecad5915b3e0.jpg)
+
+Image below represents the percenages of working experience of working wives in different parts(4) of the US.
+
+![4th image](https://cloud.githubusercontent.com/assets/28226371/25567133/79498122-2e00-11e7-90f8-a8d2b4eccd80.jpg)
 
 The detailed description of the source data can be viewed [here](https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/HI.html).
