@@ -2,11 +2,11 @@
 
 In the world of health insurance, one of the most important task is the development of different health insurance packages and strategies catering to the background of the costumers. This task can prove to be highly fruitful if the new strategies and insurance packages are designed using informed data and trend changes from past to present.
 
-To see the change in trends, it is essential to not only look at the current data trends but also, to look and compare it past data trends, which can be used to provide much better insight into the long running changes.
+To see the change in trends, it is essential to not only look at the current data trends but also, to look and compare it to past data trends, which can be used to provide much better insight into the long running changes.
 
 ```
 The main focus of the project is to highlight identifiers that a married 
-will have health insurance with how much probaility. 
+will have health insurance with how much probability. 
 Combining it with current data of similar kind, can give insight into 
 changing behaviors and variables that have been important in getting 
 more and more people into the health insurance net from past to present. 
@@ -68,11 +68,12 @@ If I pick a random women with three kids under 18, what is the probability of he
 
 If the husbands income in the first quartile, how much probability is there that wive is working full week without any health insurance?
 
-The answer to these and similar questions can be beneficial in assessing the pros an cons in health insurance packages and policies of the past and if the similar data of current time is analysed the same way, it can deduceed that which factors are beneicial in getting more people into health insurance and which factor backfired. Future changes in strategies of health insurance packages made keeping these deductions in mind. 
+The answer to these and similar questions can be beneficial in assessing the pros an cons in health insurance packages and policies of the past and if the similar data of current time is analysed the same way, it can deduced that which factors are beneficial in getting more people into health insurance and which factor backfired. Future changes in strategies of health insurance packages made keeping these deductions in mind. 
 
 ## Background on the data
 
-The dataset consists of 22272 data points with 13 variables, about the working wives with or without husbands health insurance coverage in different parts of US. The collected data is for the year 1993, thus is perfect for assessing the changes in insurance coverage of working wives from the past by comparing with current data of such type.
+The dataset consists of 22272 data points with 13 variables, about the working wives with or without husbands health insurance coverage in different parts of US. The collected data is for the year 1993, thus is perfect for assessing the changes in insurance coverage of working wives from the past by comparing with current data of such type. The 13 variables include Working hours per week 
+by wife (numeric), wife covered by husband's health insurance (yes/no), wife has health insurance through her job (yes/no), Husband has health insurance through his job (yes/no), Education level of wife (6 parameters), race (3 parameters), Hispanic (yes/no), Number of kids under age 6 (numeric), number of kids between 6-18 ages (numeric), Husband's income (numeric), US region (4 regions), sampling weight (numeric).
 
 Image below represents the number of data points collected from different parts (4) of the US.
 
